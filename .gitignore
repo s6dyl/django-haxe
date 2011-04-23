@@ -1,0 +1,6 @@
+*.pyc
+django_haxe.egg-info/
+.project
+.settings
+.pydevproject
+
